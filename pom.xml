@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.com.rhinosistemas</groupId>
+  <artifactId>LucasJar</artifactId>
+  <version>0.1.0</version>
+  <!-- Versão 0.0.1  Inicio do projeto de somar numeros-->
+  <!-- Versão 0.0.2  Correcao de validacao do tipo de dado -->
+  <!-- Versão 0.0.3  Correcao para devolver casas decimais -->
+  <!-- Versão 0.1.0  Inclusão da funcionalidade de subtrair numeros -->
+  <!-- Versão 0.1.1  Correcao que eu precisar nos metodos -->
+  <!-- Versão 0.1.2  Corecao besta -->
+  <!-- Versão 0.2.0  Incluir a funcao de multiplicar -->
+  <!-- Versão 0.3.0  incluir a funcao de dividir -->
+  <!-- Versão 1.0.0  liberando pessoal para utilizar o sistema -->
+  <!-- Versão 2.0.0  Transformando tudo isso em calculadora -->
+  
+  <name>LucasJar</name>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</project>
